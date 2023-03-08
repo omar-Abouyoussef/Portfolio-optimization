@@ -2,7 +2,7 @@
 
 ### Portfolio optimizer for ESG-Rotman Portfolio Management Competition. 
 
-## Implementation of the Modern Portfolio Theory.
+#### Implementation of the Modern Portfolio Theory.
 
 #### The Frontier.py script achieves the following:
 1. Downloads historical stock prices using pandas datareader library and calculates the expected Returns and volatility of the stocks as measured by the covariance matrix.
@@ -10,5 +10,5 @@
 3. Simulated stock prices could also be used in optimization.
 
 #### Other features found in MC.py
-. simulated stock prices alongside their distribution.
+Simulated stock prices alongside their distribution.
 
